@@ -71,13 +71,13 @@ https://www.digitalocean.com/community/tutorials/an-introduction-to-securing-you
 
 AFTER we have our server nice and secure need to download the FantasyGold linux wallet, here's how:
 
-``` wget https://github.com/FantasyGold/FantasyGold-Core/releases/download/2.0.0/FantasyGoldCore-v2.0.0-Linux64.tar.gz ```
+``` wget https://github.com/FantasyGold/FantasyGold-Core/releases/download/2.19.1/FantasyGoldCore-v2.19.1-Linux64.tar.xz```
 
 Copy and Paste the above command into your terminal this will start the download.
 
 Once its done we need to untar the file.
 
-``` tar -xvzf FantasyGoldCore-v2.0.0-Linux64.tar.gz ```
+``` tar xf FantasyGoldCore-v2.19.1-Linux64.tar.xz ```
 
 The wallet will be located in the bin file, you can move fantasygoldd and fantasygold-cli files to any location you like or leave them
 
