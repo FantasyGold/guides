@@ -2,7 +2,7 @@
 
 Many users prefer using a VPS for staking purposes, it is safer than using your local machine and it is more convenient for most people as you don't need to leave your computer turned on 24/7, there are also some very cheap and stable solutions you can use.
 
-In this tutorial we'll show how to do this using **DigitalOcean**  (please use our ref. link, it helps reduce the projects overhead) https://m.do.co/c/8148cc9b9f55 | the same principles apply to any other cloud provider you may prefer.
+In this tutorial we'll show how to do this using **DigitalOcean / Vultr**  (please use our ref. link, it helps reduce the projects overhead) https://www.vultr.com/?ref=7698096| the same principles apply to any other cloud provider you may prefer.
 
 
 
